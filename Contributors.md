@@ -28,7 +28,7 @@
 - [sailorworks](https://github.com/sailorworks)
 - [Akash Suresh Ghadge](https://github.com/akashghadge)
 - [Adekilekun Abdullahi](https://github.com/adekilekunabdullahi)
-- [Ripa] (https://github.com/riparuk) 
+- [Ripa] (https://github.com/riparuk)
 - [aleisgoood] (https://github.com/aleisgoood)
 - [kyrill belomenov](https://github.com/kybe236)
 - [Manzil Shrestha](https://github.com/777Mnzl)
@@ -6816,3 +6816,4 @@ Aadi Deshmukh
 - [YuKyungKim](https://github.com/KimYuKyung16)
 - [Gardner](https://github.com/gardnerdev)
 - [Tamajit Das](https://github.com/devdas98)
+- [Shinonomelon](https://github.com/shinonomelon)
